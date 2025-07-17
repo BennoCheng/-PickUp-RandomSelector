@@ -57,9 +57,10 @@ PickUp 是一款簡單有趣的隨機選圖 App，讓你從相簿或拍照中選
 ---
 
 ## 📂 專案架構（主要檔案）
-|- AppDelegate.swift
-|- SceneDelegate.swift
-|- MainViewController.swift  // 主邏輯
-|- HomeViewController.swift // 初始畫面
-|- PhotoCell.swift          // 自訂圖片 cell
-|- Info.plist
+
+- AppDelegate.swift
+- SceneDelegate.swift
+- MainViewController.swift  // 主邏輯
+- HomeViewController.swift // 初始畫面
+- PhotoCell.swift          // 自訂圖片 cell
+- Info.plist
